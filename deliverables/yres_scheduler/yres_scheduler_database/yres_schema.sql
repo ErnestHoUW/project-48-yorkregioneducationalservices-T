@@ -1,4 +1,4 @@
--- Initalization
+-- Initalization 
 drop schema if exists yres cascade; 
 create schema yres;
 set search_path to yres;
