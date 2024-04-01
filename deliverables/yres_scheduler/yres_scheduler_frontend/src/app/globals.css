@@ -1,5 +1,6 @@
 body, html{
   overflow-x: hidden;
+  font-family: 'Inter', sans-serif;
 }
 /* General App Wide Styles */
 #menu-layout {
